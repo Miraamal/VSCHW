@@ -1,0 +1,14 @@
+ul {
+    list-style: square;
+}
+
+table {
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid black;
+}
+
+img {
+    width: 15px;
+}

@@ -1,0 +1,16 @@
+p {
+    display: block;
+    background-color: #34495e;
+    border-radius: 20px;
+    padding: 21px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(224, 211, 211);
+}
+h2 {
+    display: block;
+    border-radius: 20px;
+    padding: 21px;
+}
